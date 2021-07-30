@@ -25,6 +25,7 @@ export const Search = () => {
             onChange={(e) => setInput(e.target.value)}
             placeholder="Procure pelo seu digimon!"
           />
+          {error && <span>"Digimon não encontrado!"</span>}
           <button onClick={handleSearch}>Pesquisar</button>
         </div>
       </section>
