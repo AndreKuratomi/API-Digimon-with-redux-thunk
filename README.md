@@ -4,7 +4,7 @@
 - [Instalação](#instalação)
 - [Utilização](#utilização)
 - [Termos de uso](#termos-de-uso)
-
+- [Referências](#referências)
 
 # Descrição
 
@@ -72,3 +72,7 @@ https://api-digimon-redux-thunk.vercel.app/
 # Termos de uso
 
 <p>Esta aplicação atende a fins exclusivamente didáticos e não possui qualquer intuito comercial.</p>
+
+# Referências
+
+- [API Digimon](https://digimon-api.vercel.app/)
