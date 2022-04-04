@@ -18,7 +18,7 @@ https://kenzieshop-umber.vercel.app/
 
 <h5>0. Primeiramente, é necessário já ter instalado na própria máquina:</h5>
 
-- <p> Um <b>editor de código</b>, conhecido também como <b>IDE</b>. Por exemplo, o <b>[Visual Studio Code (VSCode)](#https://code.visualstudio.com/)</b>.</p>
+- <p> Um <b>editor de código</b>, conhecido também como <b>IDE</b>. Por exemplo, o <b>[@Visual Studio Code (VSCode)](#https://code.visualstudio.com/)</b>.</p>
 
 - <p> Uma <b>ferramenta cliente de API REST</b>. Por exemplo, o <b>[Insomnia](https://www.insomnia.rest/download)</b> ou o <b>[Postman](https://www.postman.com/product/rest-client/)</b>. Utilizaremos neste README o Insomnia como base.</p>
 
