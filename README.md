@@ -1,4 +1,4 @@
-## API
+## API Digimon redux-thunk
 
 - [Descrição](#descrição)
 - [Instalação](#instalação)
