@@ -29,13 +29,13 @@ git init
 <h5>1. Fazer o clone do repositório <b>Kenzieshop</b> na sua máquina pelo terminal do computador ou pelo do IDE:</h5>
 
 ```
-git clone https://github.com/AndreKuratomi/Kenzieshop.git
+git clone https://github.com/AndreKuratomi/API-Digimon-with-redux-thunk.git
 ```
 
 <p>Entrar na pasta criada:</p>
 
 ```
-cd Kenzieshop
+cd API-Digimon-with-redux-thunk
 ```
 
 <p>Instalar as dependências:</p>
