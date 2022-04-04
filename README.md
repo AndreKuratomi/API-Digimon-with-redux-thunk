@@ -12,7 +12,7 @@
 <br>
 Link deploy vercel:
 
-https://kenzieshop-umber.vercel.app/
+https://api-digimon-redux-thunk.vercel.app/
 
 # Instalação
 
@@ -66,7 +66,7 @@ yarn start
 
 <p>Ou podemos utilizar o link do deploy Vercel a seguir:</p>
 
-https://kenzieshop-umber.vercel.app/
+https://api-digimon-redux-thunk.vercel.app/
 
 
 # Termos de uso
