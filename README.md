@@ -1,4 +1,4 @@
-## KENZIESHOP
+## API
 
 - [Descrição](#descrição)
 - [Instalação](#instalação)
@@ -8,7 +8,7 @@
 
 # Descrição
 
-<p><b>KenzieShop</b> é uma aplicação que simula em e-commerce simples com estante de produtos e carrinho de compras gerenciando o valor total da compra. Esta aplicação utiliza React e o gerenciador de states Redux.</p>
+<p><b>API Digimon with redux thunk</b> é uma aplicação que pesquisa na API Digimon o nome de um e, quando existe, retorna sua imagem, nome e categoria. Esta aplicação utiliza React e o gerenciador de state Redux e o middleware Redux-Thunk.</p>
 <br>
 Link deploy vercel:
 
