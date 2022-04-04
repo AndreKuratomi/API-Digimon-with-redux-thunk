@@ -1,15 +1,20 @@
 import { useSelector } from "react-redux";
+import { Div } from "./styles";
 
 export const Digimons = () => {
   const { digimons } = useSelector((state) => state);
   console.log({ digimons });
   return (
     <>
-      <ul>
+      <Div>
         {digimons.map((digimon, index) => (
-          <li key={index}>{digimon}</li>
+          <div key={index}>
+            <div>{digimon}</div>
+            {/* <img src={digimon} />
+            <div>{digimon}</div> */}
+          </div>
         ))}
-      </ul>
+      </Div>
     </>
   );
 };

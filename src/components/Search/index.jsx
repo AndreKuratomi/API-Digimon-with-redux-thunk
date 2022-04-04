@@ -3,6 +3,8 @@ import { useDispatch } from "react-redux";
 
 import { addDigimonsThunk } from "../../store/modules/digimons/thunks";
 
+import { Input, Button, Div } from "./styles";
+
 export const Search = () => {
   const [input, setInput] = useState("");
   const [error, setError] = useState(false);
@@ -19,14 +21,14 @@ export const Search = () => {
       <section>
         <h1>Procure pelo seu digimon!</h1>
         <div>
-          {error && <div>Digimon não encontrado!</div>}
-          <input
+          <Input
             value={input}
             onChange={(e) => setInput(e.target.value)}
             placeholder="Procure pelo seu digimon!"
           />
-          <button onClick={handleSearch}>Pesquisar</button>
+          <Button onClick={handleSearch}>Pesquisar</Button>
         </div>
+        {error && <Div>Digimon não encontrado!</Div>}
       </section>
       {/* <Digimons /> */}
     </main>
