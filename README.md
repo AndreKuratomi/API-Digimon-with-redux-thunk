@@ -8,7 +8,7 @@
 
 # Descrição
 
-<p><b>API Digimon with redux thunk</b> é uma aplicação que pesquisa na API Digimon o nome de um e, quando existe, retorna sua imagem, nome e categoria. Esta aplicação utiliza React e o gerenciador de state Redux e o middleware Redux-Thunk.</p>
+<p><b>API Digimon with redux thunk</b> é uma aplicação que pesquisa na [API Digimon](#referências) o nome de um e, quando existe, retorna sua imagem, nome e categoria. Esta aplicação utiliza React e o gerenciador de state Redux e o middleware Redux-Thunk.</p>
 <br>
 Link deploy vercel:
 
